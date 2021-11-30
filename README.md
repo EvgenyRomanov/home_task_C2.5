@@ -1,4 +1,4 @@
-# Проект 1. Игра морской бой на python
+# Проект 2. Игра морской бой на python
 
 ## Оглавление  
 [1. Описание проекта](https://github.com/EvgenyRomanov/home_task_C2.5/blob/main/README.md#описание-проекта)  
